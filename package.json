@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "chartjs-node-canvas": "^4.1.6",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "jsdom": "^24.0.0"
+  }
+}
